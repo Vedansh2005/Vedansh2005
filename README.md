@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **vedanshdhargalkar03@gmail.com** For Project or Anything E
 ![](https://github-profile-trophy.vercel.app/?username=Vedansh2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vedxnsh.05_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/vedansh-dhargalkar-7ba917284) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedanshdhargalkar03@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vedxnsh.05_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedansh-dhargalkar-7ba917284) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedanshdhargalkar03@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
